@@ -636,6 +636,10 @@ body.dark-theme {
   transform: rotate(-180deg);
 }
 
+.inter{
+  margin-left: 50px;
+}
+
 
 /*==================== QUALIFICATION ====================*/
 .qualification__tabs {
